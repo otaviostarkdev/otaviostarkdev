@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Otavio Stark
 
-![Banner](./facebook_cover_stark.jpeg)
+![Banner](https://raw.githubusercontent.com/otaviostarkdev/otaviostarkdev/main/facebook_cover_stark.jpeg)
 
 ### Quem sou eu?
 **Full Stack Developer** de Pelotas - RS | Transformo ideias em SaaS que vendem com o celular desligado.
